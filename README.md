@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PranjulKushwaha
-- 👀 I’m interested in web Development 
+- 👀 I'm Fullstack Web developer 
 - 🌱 I’m currently learning Python
 - 📫 My contact Email Pranjulkushwaha048@gmail.com
 
